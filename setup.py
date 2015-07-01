@@ -35,4 +35,5 @@ setup(
         'mistune',
         'Pygments',
     ],
+    test_suite='tests',
 )
